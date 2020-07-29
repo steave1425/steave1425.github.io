@@ -1,0 +1,15 @@
+Tao
+
+Tao (/daʊ/, /taʊ/) or Dao (/daʊ/ DOW; from Chinese: 道; pinyin: Dào [tâu] (About this soundlisten)) is a Chinese word signifying the "way", "path", "route", "road" or sometimes more loosely "doctrine", "principle" or "holistic beliefs".[1] In the context of East Asian philosophy and East Asian religions, Tao is the natural order of the universe whose character one's human intuition must discern in order to realize the potential for individual wisdom. This intuitive knowing of "life" cannot be grasped as a concept; it is known through actual living experience of one's everyday being.
+
+Laozi in the Tao Te Ching explains that the Tao is not a "name" for a "thing" but the underlying natural order of the Universe whose ultimate essence is difficult to circumscribe due to it being non-conceptual yet evident in one's being of aliveness.[citation needed] The Tao is "eternally nameless" (Tao Te Ching-32. Laozi) and to be distinguished from the countless "named" things which are considered to be its manifestations, the reality of life before its descriptions of it.
+
+The Tao lends its name to the religious tradition (Wade–Giles, Tao Chiao; Pinyin, Daojiao) and philosophical tradition (Wade–Giles, Tao chia; Pinyin, Daojia) that are both referred to in English with the single term Taoism. 
+
+Theme Color
+#BA6058
+
+Fonts
+<link href="https://fonts.googleapis.com/css2?family=Scope+One&display=swap" rel="stylesheet"> 
+
+font-family: 'Scope One', serif;

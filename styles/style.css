@@ -1,0 +1,85 @@
+html {
+  font-size: 16pt;
+  font-family: 'Scope One', 'Josefin Slab', serif;
+  color: #fefefe;
+  background: #333e57!important; 
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #BA6058;
+  padding:1rem;
+  border-left: 5px solid #a04e47;
+  border-right: 5px solid #a04e47;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  font-size: 4rem;
+  text-align: center;
+  letter-spacing: 1rem;
+}
+
+h2 {
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.4;
+  letter-spacing: 1px;
+}
+
+a {
+  color: #fefefe;
+}
+
+a:visited {
+  color: #333e57; 
+}
+
+hr {
+  border: none;
+  max-width: 500px;
+  height: 1px;
+  background: #fefefe;
+}
+
+img {
+  display: block;
+  margin: 4rem auto;
+  max-width: 100%;
+  transform: scale(150%);
+  filter: saturate(20%);
+  /* transform-origin: right; */
+}
+
+img:hover {
+  cursor: pointer;
+  transform: scale(155%);
+}
+
+button {
+  display: block;
+  margin: 1rem;
+  padding: .5rem 1rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-radius: 0;
+  border: none;
+  border-left: 5px solid #a04e47;
+  background: #BA6058;
+  color: #fefefe;
+  font-family: 'Scope One', 'Josefin Slab', serif;
+  font-size: 1rem;
+}
+
+button:hover {
+  background: #BA6058;
+  transform: scale(105%);
+  cursor: pointer;
+}
